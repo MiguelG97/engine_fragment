@@ -1,5 +1,23 @@
 # Changelog
 
+## [3.3.0](https://github.com/ThatOpen/engine_fragment/compare/v3.2.1...v3.3.0) (2025-11-05)
+
+
+### Features
+
+* allow to return all raycast results ([7012998](https://github.com/ThatOpen/engine_fragment/commit/701299806cb3462ba0163dd1802f3730b2c7dfc3))
+
+
+### Bug Fixes
+
+* correct small harmless error in ifc importer ([2e9a276](https://github.com/ThatOpen/engine_fragment/commit/2e9a27615751f259093eff510b988f4dfbea64aa))
+* **ifc-importer:** exclude boolean from attribute serialization process ([#96](https://github.com/ThatOpen/engine_fragment/issues/96)) ([db3b785](https://github.com/ThatOpen/engine_fragment/commit/db3b785e781c8dddfadbd984ddac88f941e0406a))
+
+
+### Miscellaneous Chores
+
+* release 3.3.0 ([95846b7](https://github.com/ThatOpen/engine_fragment/commit/95846b7de60d600eb520db3a06a545e68f2d1c38))
+
 ## [3.2.1](https://github.com/ThatOpen/engine_fragment/compare/v3.1.0...v3.2.1) (2025-10-23)
 
 
